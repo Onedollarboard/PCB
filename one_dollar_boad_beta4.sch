@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="7.2.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -3298,7 +3298,7 @@ Based on the following sources:&lt;p&gt;
 <part name="J6" library="con-amp" deviceset="MTA04-100" device=""/>
 <part name="J7" library="con-amp" deviceset="MTA02-100" device=""/>
 <part name="J8" library="con-amp" deviceset="MTA02-100" device=""/>
-<part name="CONNECTORBAR1" library="femeabarra01x08" deviceset="FAMALEBAR01X08" device=""/>
+<part name="CONNECTORBAR1" library="femeabarra01x08" deviceset="FAMALEBAR01X08" device="" value="."/>
 <part name="U$9" library="arduinopinagem" deviceset="ARDUINOPINAGEM" device=""/>
 <part name="ICSP1" library="ICSP" deviceset="ICSP" device=""/>
 <part name="ICSP2" library="ICSP" deviceset="ICSP" device=""/>
