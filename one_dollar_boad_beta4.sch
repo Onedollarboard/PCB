@@ -3059,7 +3059,7 @@ Based on the following sources:&lt;p&gt;
 <part name="C2" library="SparkFun" deviceset="CAP" device="0805" value="4.7uf"/>
 <part name="U$4" library="SparkFun" deviceset="5V" device=""/>
 <part name="GND4" library="SparkFun" deviceset="GND" device=""/>
-<part name="JP2" library="SparkFun-Connectors" deviceset="M03X2" device="2X3_SILK_MALE_PTH" value="ICSP"/>
+<part name="JP2" library="SparkFun-Connectors" deviceset="M03X2" device="2X3_SILK_MALE_PTH"/>
 <part name="GND5" library="SparkFun" deviceset="GND" device=""/>
 <part name="U$6" library="SparkFun" deviceset="5V" device=""/>
 <part name="S1" library="switch-tact" deviceset="DTSM-3" device="" value="RESET"/>
@@ -3067,7 +3067,7 @@ Based on the following sources:&lt;p&gt;
 <part name="EX4" library="st-microelectronics" deviceset="L293D" device="" value=""/>
 <part name="J1" library="con-amp" deviceset="MTA08-100" device=""/>
 <part name="J2" library="con-amp" deviceset="MTA08-100" device=""/>
-<part name="U$8" library="esp8266modules" deviceset="ESP01" device=""/>
+<part name="U$8" library="esp8266modules" deviceset="ESP01" device="" value="EX1"/>
 <part name="J3" library="con-amp" deviceset="MTA04-100" device=""/>
 <part name="J4" library="con-amp" deviceset="MTA04-100" device=""/>
 <part name="EX2" library="atmel" deviceset="AT24C*" device="P" value=""/>
@@ -3100,7 +3100,7 @@ Based on the following sources:&lt;p&gt;
 <text x="-43.18" y="-10.16" size="1.778" layer="97">For full details and license information please see http://onedb.c/</text>
 <text x="-43.18" y="-15.24" size="1.778" layer="97">Centro Maker Tecnologia Ltda - onedollarboard.com 2015</text>
 <text x="78.74" y="116.84" size="1.778" layer="97">ONE DOLLAR BOARD BETA 4</text>
-<text x="111.76" y="104.14" size="1.778" layer="97">EX1</text>
+<text x="127" y="78.74" size="1.778" layer="97">EX3</text>
 </plain>
 <instances>
 <instance part="X1" gate="G$1" x="-5.08" y="43.18" rot="R180"/>
